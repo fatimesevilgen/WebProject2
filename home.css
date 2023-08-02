@@ -25,6 +25,7 @@
   background-color: #5a3425;
   border-radius: 20px;
   opacity: 0.8;
+  z-index: 2;
 }
 
 
@@ -78,6 +79,7 @@
   padding: 10px;
   opacity: 0.7;
   box-shadow: 5px 5px 3px;
+  z-index: 1;
 }
 
 .icerik h1{
