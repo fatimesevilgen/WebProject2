@@ -7,7 +7,19 @@
 https://github.com/fatimesevilgen/WebProject2/assets/133706539/d1e31e08-088f-4e91-a573-b5ea1d26fe82
 
 
-## Tanıtım
+## Kullanılan Teknolojiler
 
-Hayalinizdeki evinizi mi tasarlamak istiyorsunuz ve ilham arıyorsunuz? Artık daha fazla aramanıza gerek yok! "Design Your House", farklı oda tasarımlarını, mutfak, yatak odası, oturma odası ve daha fazlasını sergileyen basit ve etkili bir web uygulamasıdır. Farklı tasarımları kolayca keşfedebilir ve kendi projeniz için ilham alabilirsiniz.
+- HTML5
+- CSS3
+
+## Katkılar
+
+Katkıda bulunmak isteyen herkes bu projeye yardım edebilir. Lütfen katkılarınızı GitHub üzerinden forklayarak ve pull request göndererek yapın.
+
+## İletişim
+
+Proje hakkında herhangi bir sorunuz veya öneriniz varsa benimle iletişime geçebilirsiniz:
+
+Fatime Sevilgen - fatimesevilgen@gmail.com
+
 
